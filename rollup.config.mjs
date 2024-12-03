@@ -12,6 +12,6 @@ export default {
       include: ['**/*.md'],
       limit:2000000,
     }),
-    typescript()
+    typescript({declaration:true,outDir:'build'})
   ],
 };
