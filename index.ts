@@ -10,9 +10,16 @@ const policies = [
 
 // Parsing
 
+function b64DecodeUnicode(str:string) {
+  // Going backwards: from bytestream, to percent-encoding, to original string.
+  return decodeURIComponent(atob(str).split('').map(function(c) {
+      return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
+  }).join(''));
+}
+
 const parsed = policies.map((policyDataUrl)=>{
   const base64String = policyDataUrl.split(',')[1];
-  return atob(base64String);
+  return b64DecodeUnicode(base64String);
 });
 
 export default parsed
