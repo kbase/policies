@@ -1,7 +1,7 @@
 ---
 id: data-policy
 title: Data Policy
-version: 2
+version: 1
 equivalentVersions: []
 ---
 
