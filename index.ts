@@ -1,8 +1,10 @@
-import dataPolicy from './policies/dataPolicy.md';
-import kbaseUser from './policies/kbaseUser.md';
+import dataPolicy from './policies/dataPolicy.1.md';
+import kbaseUser1 from './policies/kbaseUser.1.md';
+import kbaseUser2 from './policies/kbaseUser.2.md';
 
 const policies = [
-  kbaseUser,
+  kbaseUser1,
+  kbaseUser2,
   dataPolicy
 ]
 

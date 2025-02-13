@@ -7,23 +7,17 @@ equivalentVersions: []
 
 # Terms and Conditions
 
-_Revised October 2022, April 2023, November 2023_
+*Revised October 2022, April 2023, November 2023*
 
 Ver.2 changes
 
-- Updated policy on prohibited use to clarify human vs human microbiome data, and the requirement for human microbiome data to be collected under IRB-approved protocol.
-
-- Added statement to inform users that KBase is managed by and also subject to Lawrence Berkeley National Lab’s [privacy policy](https://www.lbl.gov/disclaimers/).
-
-- Added policy on data reuse. In brief, all data remains private until a user shares with individual(s), organization(s), or makes a Narrative public. Sharing a Narrative within the KBase platform grants fair use but should be accompanied by full credit and attribution in all derived works. If a user requests a DOI to generate a FAIR Narrative, the default license applied is Creative Commons Public Domain ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)). Alternatively, the user can request a Creative Commons with Attribution ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)) license for the Narrative receiving the DOI, however all data within the Narrative retains a CC0 license. Review the Data Policy section for full details.
-
-- Added statement on use of generative artificial intelligence (AI).
-
-- Added [National Microbiome Data Collaborative](https://microbiomedata.org/) and [Protein Data Bank](https://www.rcsb.org/) as data sources. Updated JGI data license to link to their policy site.
-
-- _April 2023 update_: Partnership with the California Digital Library to ensure the long term preservation of data associated with a FAIR Narrative. All data will be stored in a generalist repository under a CC0 license.
-
-- _Nov 2023 update_: Added language to the user account regarding global access and account deactivation; and the data policy section emphasizing that KBase is not intended for proprietary data or use, as KBase supports open research intended to be published in open scientific journals.
+* Updated policy on prohibited use to clarify human vs human microbiome data, and the requirement for human microbiome data to be collected under IRB-approved protocol.  
+* Added statement to inform users that KBase is managed by and also subject to Lawrence Berkeley National Lab’s [privacy policy](https://www.lbl.gov/disclaimers/).  
+* Added policy on data reuse. In brief, all data remains private until a user shares with individual(s), organization(s), or makes a Narrative public. Sharing a Narrative within the KBase platform grants fair use but should be accompanied by full credit and attribution in all derived works. If a user requests a DOI to generate a FAIR Narrative, the default license applied is Creative Commons Public Domain ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)). Alternatively, the user can request a Creative Commons with Attribution ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)) license for the Narrative receiving the DOI, however all data within the Narrative retains a CC0 license. Review the Data Policy section for full details.  
+* Added statement on use of generative artificial intelligence (AI).  
+* Added [National Microbiome Data Collaborative](https://microbiomedata.org/) and [Protein Data Bank](https://www.rcsb.org/) as data sources. Updated JGI data license to link to their policy site.  
+* *April 2023 update*: Partnership with the California Digital Library to ensure the long term preservation of data associated with a FAIR Narrative. All data will be stored in a generalist repository under a CC0 license.  
+* *Nov 2023 update*: Added language to the user account regarding global access and account deactivation; and the data policy section emphasizing that KBase is not intended for proprietary data or use, as KBase supports open research intended to be published in open scientific journals.
 
 ## KBASE USE AGREEMENT
 
@@ -39,11 +33,11 @@ Your account may be suspended if you do not comply with the terms and policies i
 
 ### Prohibited use
 
-_Do not upload any type of human data, personally identifiable information, or restricted data._
+*Do not upload any type of human data, personally identifiable information, or restricted data.*
 
-As a condition of your use of KBase (the DOE Systems Biology Knowledgebase) you agree not to upload any type of human data or personally identifiable information. KBase requires any user uploading data associated with human subjects (i.e., “human microbiome”) to verify in writing inside a Narrative markdown cell that 1) the user is an authorized contact for these data and authorized to submit, share or release these data; 2) the data were collected under an IRB-approved protocol (including the IRB protocol number); and 3) that the data were stripped of identifiers that could link the data to the individual from whom it was collected, prior to uploading to KBase.
+As a condition of your use of KBase (the DOE Systems Biology Knowledgebase) you agree not to upload any type of human data or personally identifiable information. KBase requires any user uploading data associated with human subjects (i.e., “human microbiome”) to verify in writing inside a Narrative markdown cell that 1\) the user is an authorized contact for these data and authorized to submit, share or release these data; 2\) the data were collected under an IRB-approved protocol (including the IRB protocol number); and 3\) that the data were stripped of identifiers that could link the data to the individual from whom it was collected, prior to uploading to KBase.
 
-Any individual who accesses these data sets commits that they will not attempt to re-identify the data. If individually identifiable data are found inside KBase, contact <engage@kbase.us> immediately.
+Any individual who accesses these data sets commits that they will not attempt to re-identify the data. If individually identifiable data are found inside KBase, contact [engage@kbase.us](mailto:engage@kbase.us) immediately.
 
 Other prohibited data include data that are export controlled, categorized as "Official Use Only" or "Controlled Unclassified Information" by the US Government, or any other data that the data owner would classify as "Moderate" or "High" under Federal Information Processing Standards (FIPS) Publication 199: Standards for Security Categorization of Federal Information and Information Systems.
 
@@ -57,7 +51,7 @@ To protect your account and personal information, you agree to keep your passwor
 
 KBase User accounts by foreign nationals are generally permitted regardless of whether access is from the United States or abroad. However, US government regulations may prohibit use of KBase resources by citizens of sanctioned or embargoed nations, affiliates of restricted organizations or certain designated individuals.
 
-If you learn of any unauthorized use of your KBase account, you agree to immediately[ contact KBase](https://www.kbase.us/support/). KBase will not be liable for any loss or damage arising from your failure to comply with this guidance.
+If you learn of any unauthorized use of your KBase account, you agree to immediately [contact KBase](https://www.kbase.us/support/). KBase will not be liable for any loss or damage arising from your failure to comply with this guidance.
 
 Account deactivation can be done by request and only after account ownership is verified. While accounts can be permanently deactivated, account information will not be deleted entirely, to ensure that permanent records of provenance and credit tracking are honored.
 
@@ -81,7 +75,7 @@ Users may at any time review, update or delete the personal information in their
 
 ## PRIVACY POLICY
 
-The DOE Systems Biology Knowledgebase Project (KBase) is provided as a public service. KBase reserves the right to monitor any and all use of kbase.us domains. This Privacy Policy describes the ways KBase collects, stores, uses, discloses and protects the personal information about users and how they use KBase. A direct link to this section of the KBase Terms and Conditions appears in the footer of www\.kbase.us webpages and other prominent locations such as the sign up page, where it must be acknowledged to obtain a KBase User Account. KBase never collects information for commercial marketing or any purpose unrelated to KBase functions. KBase is managed by and also subject to Lawrence Berkeley National Lab’s [privacy policy](https://www.lbl.gov/disclaimers/).
+The DOE Systems Biology Knowledgebase Project (KBase) is provided as a public service. KBase reserves the right to monitor any and all use of kbase.us domains. This Privacy Policy describes the ways KBase collects, stores, uses, discloses and protects the personal information about users and how they use KBase. A direct link to this section of the KBase Terms and Conditions appears in the footer of www.kbase.us webpages and other prominent locations such as the sign up page, where it must be acknowledged to obtain a KBase User Account. KBase never collects information for commercial marketing or any purpose unrelated to KBase functions. KBase is managed by and also subject to Lawrence Berkeley National Lab’s [privacy policy](https://www.lbl.gov/disclaimers/).
 
 ### Information KBase collects
 
@@ -125,27 +119,27 @@ KBase restricts access to nonpublic, personal information (e.g., email address) 
 
 This KBase Privacy Policy may change from time to time. Your rights under this policy will not be reduced without your explicit consent. Changes will be posted on this page, and if significant will be provided more prominently via email or notification when you sign in.
 
-Users may at any time review, update, correct or delete the personal information in their profiles by signing in to their KBase account and using the edit or remove functions available from their personal profile page.
+Users may at any time review, update, correct or delete the personal information in their profiles by signing in to their KBase account and using the edit or remove functions available from their personal profile page. 
 
 ## DATA POLICY AND SOURCES
 
-**As a community of data scientists (see**[ **KBase Code of Conduct**](https://www.kbase.us/kbase-code-of-conduct/)**), please be respectful and cite all data sources that contribute to your work. If the data are not published, contact the data generator about their policy for use of these data.**
+**As a community of data scientists (see [KBase Code of Conduct](https://www.kbase.us/kbase-code-of-conduct/)), please be respectful and cite all data sources that contribute to your work. If the data are not published, contact the data generator about their policy for use of these data.**
 
 ### Data Policy
 
 KBase conforms to the [Information and Data Sharing Policy](https://genomicscience.energy.gov/datasharing/) of the Genomic Science Program of the Office of Biological and Environmental Research within the Office of Science. This requires that all publishable data, metadata, and software resulting from research funded by the Genomic Science program must conform to community-recognized standard formats when they exist, be clearly attributable, and be deposited within a community-recognized public database(s) appropriate for the research.
 
-Lawrence Berkeley National Laboratory (LBNL), as the lead lab for KBase, will not release a user’s data to the public under a valid Freedom of Information Act (FOIA) request without informing and/or coordinating with the user as the original source of the data, up to to the degree that the user has already released their data to the public through KBase (e.g., shared with a collaborator or added to a KBase Organization). LBNL will work with the user if any FOIA exemptions apply to respond appropriately. _However, KBase is not intended for proprietary data or use and any upload of such information is at a user’s own risk. KBase supports open research intended to be published in open scientific journals._
+Lawrence Berkeley National Laboratory (LBNL), as the lead lab for KBase, will not release a user’s data to the public under a valid Freedom of Information Act (FOIA) request without informing and/or coordinating with the user as the original source of the data, up to to the degree that the user has already released their data to the public through KBase (e.g., shared with a collaborator or added to a KBase Organization). LBNL will work with the user if any FOIA exemptions apply to respond appropriately. *However, KBase is not intended for proprietary data or use and any upload of such information is at a user’s own risk. KBase supports open research intended to be published in open scientific journals.*
 
-Data publicly available in KBase comes from the sources listed below. When logged into the KBase platform (<https://narrative.kbase.us/>), all data are private until a user shares their Narrative(s) with individual KBase users or a KBase Organization, or until a Narrative is made public. A public Narrative in KBase is visible only to other KBase users and is not accessible outside the KBase platform. Narratives shared with the KBase Help Desk are an exception, as those are only used to provide technical support and are not considered shared or public Narratives.
+Data publicly available in KBase comes from the sources listed below. When logged into the KBase platform ([https://narrative.kbase.us/](https://narrative.kbase.us/)), all data are private until a user shares their Narrative(s) with individual KBase users or a KBase Organization, or until a Narrative is made public. A public Narrative in KBase is visible only to other KBase users and is not accessible outside the KBase platform. Narratives shared with the KBase Help Desk are an exception, as those are only used to provide technical support and are not considered shared or public Narratives.
 
 Data sharing within the KBase platform permits reuse of the data to those individuals, Organizations, and all other KBase users. The Narrative owner retains rights that govern the reproduction, redistribution, and re-use of work captured by the Narrative. KBase infrastructure supports attribution by tracking the provenance of data ownership, and provides citation information to allow for appropriate attribution. **Any reuse of work contributed by other KBase users must be accompanied by full credit and attribution in all derived works, or the user should seek the permission of the owner(s) when intended activities fall outside reasonable fair use (e.g., for direct commercial profit). Failure to comply may result in the termination of KBase access privileges.**
 
-When a KBase user makes a “static” Narrative, an HTML snapshot of the current version of the Narrative is made available outside the KBase platform. The static Narrative is released to the general public, and indexed and discoverable through search engines. Any reuse of work in the static Narrative requires the individual to log into the KBase platform, and is therefore subject to the same credit and attribution requirements as above.
+When a KBase user makes a “static” Narrative, an HTML snapshot of the current version of the Narrative is made available outside the KBase platform. The static Narrative is released to the general public, and indexed and discoverable through search engines. Any reuse of work in the static Narrative requires the individual to log into the KBase platform, and is therefore subject to the same credit and attribution requirements as above. 
 
 When a KBase user requests a DOI for a static Narrative, KBase will work with the user to ensure appropriate credit, attribution, and licensing are assigned for all data and software used in the analysis. KBase also provides the user with the option to choose between Creative Commons Public Domain ([CC0](https://creativecommons.org/publicdomain/zero/1.0/), default) and Creative Commons with Attribution ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), for the full Narrative only not individual data objects, and only by request) for the Narrative instance being assigned a DOI. This creates a Findable, Accessible, Interoperable, and Reproducible (FAIR) Narrative, with data citation for use in preprints and publications.
 
-KBase does not release or use private data for any internal analyses, with the exception of collecting metrics on 1) amount of data and 2) the distribution of data types in system, and 3) app usage across system as an aggregate of user activity, and to provide the data owner with additional context for how their private data is related to other data made accessible in KBase. KBase will never expose your private data in any way nor use private data for any publication without a formal collaboration with the data owner(s).
+KBase does not release or use private data for any internal analyses, with the exception of collecting metrics on 1\) amount of data and 2\) the distribution of data types in system, and 3\) app usage across system as an aggregate of user activity, and to provide the data owner with additional context for how their private data is related to other data made accessible in KBase. KBase will never expose your private data in any way nor use private data for any publication without a formal collaboration with the data owner(s).
 
 #### **WARNING**
 
@@ -157,35 +151,33 @@ Consistent with the Data Policy above, KBase does not train models with any priv
 
 ### Data Sources
 
-|                                                           |                                                                                                       |                                                                           |
-| :-------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
-|                        **Source**                         |                                              **License**                                              |                               **Download**                                |
-|                    **_Genomic Data_**                     |                                                                                                       |                                                                           |
-|    [NCBI RefSeq](https://www.ncbi.nlm.nih.gov/refseq/)    |                                    Public Domain –- US Government                                     |                                    FTP                                    |
-|              [PATRIC](http://patricbrc.org)               |                                    Public Domain –- US Government                                     |                                    FTP                                    |
-|       [SEED](http://www.theseed.org/wiki/Main_Page)       |                                             Public Domain                                             |                                    FTP                                    |
-| [Phytozome](https://phytozome.jgi.doe.gov/pz/portal.html) |                               Free (no embargoed/early release genomes)                               | [Download](https://phytozome.jgi.doe.gov/pz/portal.html) (login required) |
-|   [MycoCosm](https://genome.jgi.doe.gov/mycocosm/home/)   |                               Free (no embargoed/early release genomes)                               |   [Download](https://genome.jgi.doe.gov/mycocosm/home) (login required)   |
-|            [Gramene](http://www.gramene.org/)             |                                             Public Domain                                             |                                    FTP                                    |
-|              [JGI](http://www.jgi.doe.gov/)               |               [JGI Policies ](https://jgi.doe.gov/user-programs/pmo-overview/policies/)               |                    [HTTP](http://genome.jgi-psf.org/)                     |
-|             [NMDC](http://microbiomedata.org)             |       [Creative Commons 4.0 with Attribution](https://microbiomedata.org/nmdc-data-use-policy/)       |                 [HTTP](https://data.microbiomedata.org/)                  |
-|                   **_Ribosomal Data_**                    |                                                                                                       |                                                                           |
-|         [Greengenes](http://greengenes.lbl.gov/)          |                     Creative Commons Attribution-ShareAlike 3.0 Unported License                      |               [HTTP](https://greengenes.secondgenome.com/)                |
-|             [SILVA](http://www.arb-silva.de/)             |            [Academic/non-commercial](https://www.arb-silva.de/silva-license-information/)             |                 [HTTP](http://www.arb-silva.de/download/)                 |
-|              [RDP](http://rdp.cme.msu.edu/)               |                     Creative Commons Attribution-ShareAlike 3.0 Unported License                      |             [HTTP](http://rdp.cme.msu.edu/misc/resources.jsp)             |
-|                     **_Ontologies_**                      |                                                                                                       |                                                                           |
-|            [GO](http://www.geneontology.org/)             | [Creative Commons Attribution 4.0 Unported License](http://geneontology.org/docs/go-citation-policy/) |          [HTTP](http://www.geneontology.org/GO.downloads.shtml)           |
-|                 [GSC](http://gensc.org/)                  |                                                Unknown                                                |             [HTTP](http://gensc.org/?title=MIGS/MIMS/MIMARKS)             |
-|                    **_Pathway Data_**                     |                                                                                                       |                                                                           |
-|     [KEGG](http://www.genome.jp/kegg/kegg1.html) maps     |                                       Academic license required                                       |                 [HTTP](http://www.kegg.jp/kegg/download/)                 |
-|            [ModelSEED](http://modelseed.org/)             |                                    Public Domain –- US Government                                     |          [HTTP](https://github.com/ModelSEED/ModelSEEDDatabase)           |
-|                 **_Protein Annotations_**                 |                                                                                                       |                                                                           |
-|             [UniProt](http://www.uniprot.org)             |                                             Public Domain                                             |                 [HTTP](http://www.uniprot.org/downloads)                  |
-|               [RAST](http://rast.nmpdr.org)               |                                             Public Domain                                             |                                    FTP                                    |
+| Source | License | Download |
+| ----- | ----- | ----- |
+| ***Genomic Data*** |  |  |
+| [NCBI RefSeq](https://www.ncbi.nlm.nih.gov/refseq/) | Public Domain –- US Government | FTP |
+| [PATRIC](http://patricbrc.org) | Public Domain –- US Government | FTP |
+| [SEED](http://www.theseed.org/wiki/Main_Page) | Public Domain | FTP |
+| [Phytozome](https://phytozome.jgi.doe.gov/pz/portal.html) | Free (no embargoed/early release genomes) | [Download](https://phytozome.jgi.doe.gov/pz/portal.html) (login required) |
+| [MycoCosm](https://genome.jgi.doe.gov/mycocosm/home/) | Free (no embargoed/early release genomes) | [Download](https://genome.jgi.doe.gov/mycocosm/home) (login required) |
+| [Gramene](http://www.gramene.org/) | Public Domain | FTP |
+| [JGI](http://www.jgi.doe.gov/) | [JGI Policies](https://jgi.doe.gov/user-programs/pmo-overview/policies/)  | [HTTP](http://genome.jgi-psf.org/) |
+| [NMDC](http://microbiomedata.org) | [Creative Commons 4.0 with Attribution](https://microbiomedata.org/nmdc-data-use-policy/) | [HTTP](https://data.microbiomedata.org/) |
+| ***Ribosomal Data*** |  |  |
+| [Greengenes](http://greengenes.lbl.gov/) | Creative Commons Attribution-ShareAlike 3.0 Unported License | [HTTP](https://greengenes.secondgenome.com/) |
+| [SILVA](http://www.arb-silva.de/) | [Academic/non-commercial](https://www.arb-silva.de/silva-license-information/) | [HTTP](http://www.arb-silva.de/download/) |
+| [RDP](http://rdp.cme.msu.edu/) | Creative Commons Attribution-ShareAlike 3.0 Unported License | [HTTP](http://rdp.cme.msu.edu/misc/resources.jsp) |
+| ***Ontologies*** |  |  |
+| [GO](http://www.geneontology.org/) | [Creative Commons Attribution 4.0 Unported License](http://geneontology.org/docs/go-citation-policy/) | [HTTP](http://www.geneontology.org/GO.downloads.shtml) |
+| [GSC](http://gensc.org/) | Unknown | [HTTP](http://gensc.org/?title=MIGS/MIMS/MIMARKS) |
+| ***Pathway Data*** |  |  |
+| [KEGG](http://www.genome.jp/kegg/kegg1.html) maps | Academic license required | [HTTP](http://www.kegg.jp/kegg/download/) |
+| [ModelSEED](http://modelseed.org/) | Public Domain –- US Government | [HTTP](https://github.com/ModelSEED/ModelSEEDDatabase) |
+| ***Protein Annotations*** |  |  |
+| [UniProt](http://www.uniprot.org) | Public Domain | [HTTP](http://www.uniprot.org/downloads) |
+| [RAST](http://rast.nmpdr.org) | Public Domain | FTP |
 
-|                                            |               |                                                                                  |
-| ------------------------------------------ | ------------- | -------------------------------------------------------------------------------- |
-| **_Structure_**                            |               |                                                                                  |
+| *Structure* |  |  |
+| :---- | :---- | :---- |
 | [Protein Data Bank](https://www.rcsb.org/) | Public Domain | [FTP/HTTP](https://www.rcsb.org/docs/programmatic-access/file-download-services) |
 
 ## RESPONSIBILITY FOR DATA
@@ -200,6 +192,6 @@ All software developed by the KBase project team, and any contributed by you to 
 
 ## KBASE CITATION
 
-Arkin AP, Cottingham RW, Henry CS, Harris NL, Stevens RL, Maslov S, et al. KBase: The United States Department of Energy Systems Biology Knowledgebase. Nature Biotechnology. 2018;36: 566. doi: [10.1038/nbt.4163](https://www.nature.com/articles/nbt.4163).
+Arkin AP, Cottingham RW, Henry CS, Harris NL, Stevens RL, Maslov S, et al. KBase: The United States Department of Energy Systems Biology Knowledgebase. Nature Biotechnology. 2018;36: 566\. doi: [10.1038/nbt.4163](https://www.nature.com/articles/nbt.4163).
 
-**Funding:** This work is supported as part of the[ BER Genomic Science Program](https://genomicscience.energy.gov/). The DOE Systems Biology Knowledgebase (KBase) is funded by the[ U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research](http://science.energy.gov/ber/) under Award Numbers DE-AC02-05CH11231, DE-AC02-06CH11357, DE-AC05-00OR22725, and DE-AC02-98CH10886.
+**Funding:** This work is supported as part of the [BER Genomic Science Program](https://genomicscience.energy.gov/). The DOE Systems Biology Knowledgebase (KBase) is funded by the [U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research](http://science.energy.gov/ber/) under Award Numbers DE-AC02-05CH11231, DE-AC02-06CH11357, DE-AC05-00OR22725, and DE-AC02-98CH10886.  
