@@ -7,7 +7,7 @@ equivalentVersions: []
 
 # Terms and Conditions
 
-*Revised October 2022, April 2023, November 2023*
+*Revised October 2022, April 2023, November 2023, June 2025*
 
 Ver.2 changes
 
