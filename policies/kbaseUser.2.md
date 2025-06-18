@@ -11,17 +11,18 @@ equivalentVersions: []
 
 Ver.2 changes
 
-* Updated policy on prohibited use to clarify human vs human microbiome data, and the requirement for human microbiome data to be collected under IRB-approved protocol.  
+* Updated policy on prohibited use to clarify human vs human microbiome data, and the requirement for human microbiome data to be collected under Institutional Review Board (IRB)-approved protocol.  
 * Added statement to inform users that KBase is managed by and also subject to Lawrence Berkeley National Lab’s [privacy policy](https://www.lbl.gov/disclaimers/).  
-* Added policy on data reuse. In brief, all data remains private until a user shares with individual(s), organization(s), or makes a Narrative public. Sharing a Narrative within the KBase platform grants fair use but should be accompanied by full credit and attribution in all derived works. If a user requests a DOI to generate a FAIR Narrative, the default license applied is Creative Commons Public Domain ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)). Alternatively, the user can request a Creative Commons with Attribution ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)) license for the Narrative receiving the DOI, however all data within the Narrative retains a CC0 license. Review the Data Policy section for full details.  
+* Added policy on data reuse. In brief, all data remains private until a user shares with individual(s), organization(s), or makes a Narrative public. Sharing a Narrative within the KBase platform grants fair use but should be accompanied by full credit and attribution in all derived works.  
 * Added statement on use of generative artificial intelligence (AI).  
-* Added [National Microbiome Data Collaborative](https://microbiomedata.org/) and [Protein Data Bank](https://www.rcsb.org/) as data sources. Updated JGI data license to link to their policy site.  
-* *April 2023 update*: Partnership with the California Digital Library to ensure the long term preservation of data associated with a FAIR Narrative. All data will be stored in a generalist repository under a CC0 license.  
-* *Nov 2023 update*: Added language to the user account regarding global access and account deactivation; and the data policy section emphasizing that KBase is not intended for proprietary data or use, as KBase supports open research intended to be published in open scientific journals.
+* Added [National Microbiome Data Collaborative](https://microbiomedata.org/) and [Protein Data Bank](https://www.rcsb.org/) as data sources. Updated Joint Genome Institute (JGI) data license to link to their policy site.  
+* *April 2023 update*: Partnership with the California Digital Library to ensure the long term preservation of data associated with a FAIR Narrative. All data will be stored in a generalist repository under a CC-BY-4.0 license.  
+* *Nov 2023 update*: Added language to the user account regarding global access and account deactivation; and the data policy section emphasizing that KBase is not intended for proprietary data or use, as KBase supports open research intended to be published in open scientific journals.  
+* *Jun 2025 update:*  If a user requests a DOI to generate a FAIR Narrative, the default license applied is Creative Commons with Attribution ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)) license. Previously, all Narratives were given a Creative Commons [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license. Review the Data Policy section for full details.
 
 ## KBASE USE AGREEMENT
 
-By using KBase, including its websites and services or via published APIs, you are agreeing to the terms stated below. Please read them carefully. They include limitations on what is acceptable user behavior, accountability, availability, data retention, and conditions for account termination. If you do not agree, do not access or use KBase.
+By using KBase, including its websites and services or via published Application Program Interfaces (APIs), you are agreeing to the terms stated below. Please read them carefully. They include limitations on what is acceptable user behavior, accountability, availability, data retention, and conditions for account termination. If you do not agree, do not access or use KBase.
 
 ### Acceptable use
 
@@ -35,7 +36,7 @@ Your account may be suspended if you do not comply with the terms and policies i
 
 *Do not upload any type of human data, personally identifiable information, or restricted data.*
 
-As a condition of your use of KBase (the DOE Systems Biology Knowledgebase) you agree not to upload any type of human data or personally identifiable information. KBase requires any user uploading data associated with human subjects (i.e., “human microbiome”) to verify in writing inside a Narrative markdown cell that 1\) the user is an authorized contact for these data and authorized to submit, share or release these data; 2\) the data were collected under an IRB-approved protocol (including the IRB protocol number); and 3\) that the data were stripped of identifiers that could link the data to the individual from whom it was collected, prior to uploading to KBase.
+As a condition of your use of KBase (the DOE Systems Biology Knowledgebase) you agree not to upload any type of human data or personally identifiable information. KBase requires any user uploading data associated with human subjects (i.e., “human microbiome”) to verify in writing inside a Narrative markdown cell that 1\) the user is an authorized contact for these data and authorized to submit, share or release these data; 2\) the data were collected under an Institutional Review Board (IRB)-approved protocol (including the IRB protocol number); and 3\) that the data were stripped of identifiers that could link the data to the individual from whom it was collected, prior to uploading to KBase.
 
 Any individual who accesses these data sets commits that they will not attempt to re-identify the data. If individually identifiable data are found inside KBase, contact [engage@kbase.us](mailto:engage@kbase.us) immediately.
 
@@ -137,7 +138,7 @@ Data sharing within the KBase platform permits reuse of the data to those indivi
 
 When a KBase user makes a “static” Narrative, an HTML snapshot of the current version of the Narrative is made available outside the KBase platform. The static Narrative is released to the general public, and indexed and discoverable through search engines. Any reuse of work in the static Narrative requires the individual to log into the KBase platform, and is therefore subject to the same credit and attribution requirements as above. 
 
-When a KBase user requests a DOI for a static Narrative, KBase will work with the user to ensure appropriate credit, attribution, and licensing are assigned for all data and software used in the analysis. KBase also provides the user with the option to choose between Creative Commons Public Domain ([CC0](https://creativecommons.org/publicdomain/zero/1.0/), default) and Creative Commons with Attribution ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), for the full Narrative only not individual data objects, and only by request) for the Narrative instance being assigned a DOI. This creates a Findable, Accessible, Interoperable, and Reproducible (FAIR) Narrative, with data citation for use in preprints and publications.
+When a KBase user requests a Digital Object Identifier (DOI) for a static Narrative, KBase will work with the user to ensure appropriate credit, attribution, and licensing are assigned for all data and software used in the analysis. KBase also provides the user with the option to choose between Creative Commons with Attribution ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), default) and Creative Commons Public Domain ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)) for the full Narrative being assigned a DOI. This creates a Findable, Accessible, Interoperable, and Reproducible (FAIR) Narrative, with data citation for use in preprints and publications.
 
 KBase does not release or use private data for any internal analyses, with the exception of collecting metrics on 1\) amount of data and 2\) the distribution of data types in system, and 3\) app usage across system as an aggregate of user activity, and to provide the data owner with additional context for how their private data is related to other data made accessible in KBase. KBase will never expose your private data in any way nor use private data for any publication without a formal collaboration with the data owner(s).
 
@@ -147,7 +148,7 @@ Improper use of KBase, including uploading human data, may result in the termina
 
 ### Generative AI Policy
 
-Consistent with the Data Policy above, KBase does not train models with any private user data or user metrics associated with private data. Any use of AI/ML conforms to the [LBNL generative AI policy](https://commons.lbl.gov/display/cpp/Guidance+on+using+Generative+AI+tools).
+Consistent with the Data Policy above, KBase does not train models with any private user data or user metrics associated with private data. Any use of Artificial Intelligence / Machine Learning (AI/ML) conforms to the [LBNL generative AI policy](https://commons.lbl.gov/display/cpp/Guidance+on+using+Generative+AI+tools).
 
 ### Data Sources
 
@@ -184,7 +185,7 @@ Consistent with the Data Policy above, KBase does not train models with any priv
 
 As a condition of your use of KBase you accept sole responsibility for all files you upload or transfer through use of KBase. While KBase routinely backs up files in cold storage, you recognize and accept that **KBase does not guarantee long-term retention of user-uploaded data**, and will not be responsible for any failure to store or transfer, or deletion, corruption or loss for any data, information or content contained in your files. It is strongly recommended that you backup all files prior to using KBase.
 
-However, if you have generated a Findable, Accessible, Interoperable, and Reusable (FAIR) Narrative with a DOI for publication and KBase is no longer able to support access to published data, KBase partners with the California Digital Library to ensure the long term preservation of data associated with a FAIR Narrative. All data will be stored in a generalist repository under a CC0 license.
+However, if you have generated a Findable, Accessible, Interoperable, and Reusable (FAIR) Narrative with a DOI for publication and KBase is no longer able to support access to published data, KBase partners with the California Digital Library to ensure the long term preservation of data associated with a FAIR Narrative. All data will be stored in a generalist repository under a [CC-by-4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
 ## OPEN SOURCE LICENSE
 
